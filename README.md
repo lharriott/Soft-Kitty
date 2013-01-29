@@ -1,4 +1,6 @@
 Soft-Kitty
 ==========
 
-Computer Organization and Architecture (Csc350)
+Senior Project Wiki
+
+This is a wiki for the Food Pyramid Project.
